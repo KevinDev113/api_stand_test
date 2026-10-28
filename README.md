@@ -1,0 +1,1 @@
+Lección de automatización de pruebas desde PyCharm
